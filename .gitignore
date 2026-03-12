@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+__pycache__/
+*.log
+selenium_profile*/
+local.properties
+*.png
+debug_hit.txt
+build/
+app/build/
+*.pyc
+.ipynb_checkpoints/

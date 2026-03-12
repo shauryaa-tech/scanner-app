@@ -1,0 +1,36 @@
+com.smartlead.scanner.test.app-activity-compose-1.9.1-0 C:\Users\shaur\.gradle\caches\8.10.2\transforms\05e989921ac4c410866ed666bc2b08c3\transformed\activity-compose-1.9.1\res
+com.smartlead.scanner.test.app-core-ktx-1.13.1-1 C:\Users\shaur\.gradle\caches\8.10.2\transforms\0742558089e69e0ebba24e3ee88decda\transformed\core-ktx-1.13.1\res
+com.smartlead.scanner.test.app-lifecycle-livedata-core-2.8.4-2 C:\Users\shaur\.gradle\caches\8.10.2\transforms\07dc2c00b9a9cfec2f2f003da6876ac7\transformed\lifecycle-livedata-core-2.8.4\res
+com.smartlead.scanner.test.app-ui-geometry-release-3 C:\Users\shaur\.gradle\caches\8.10.2\transforms\165bee09b0053842508a4b7c5ae79434\transformed\ui-geometry-release\res
+com.smartlead.scanner.test.app-ui-test-release-4 C:\Users\shaur\.gradle\caches\8.10.2\transforms\1e921987265f3b1fb5305f9ec4b795fc\transformed\ui-test-release\res
+com.smartlead.scanner.test.app-ui-test-junit4-release-5 C:\Users\shaur\.gradle\caches\8.10.2\transforms\3a219794fb916fc2dd750c5ea1ecb757\transformed\ui-test-junit4-release\res
+com.smartlead.scanner.test.app-customview-poolingcontainer-1.0.0-6 C:\Users\shaur\.gradle\caches\8.10.2\transforms\3dd035d088ac02f499186635617bed5e\transformed\customview-poolingcontainer-1.0.0\res
+com.smartlead.scanner.test.app-core-1.6.1-7 C:\Users\shaur\.gradle\caches\8.10.2\transforms\5c574ce0eb071248ee336e7edd7e056f\transformed\core-1.6.1\res
+com.smartlead.scanner.test.app-ui-graphics-release-8 C:\Users\shaur\.gradle\caches\8.10.2\transforms\5d6e4cea42d202c208d952347ed695e7\transformed\ui-graphics-release\res
+com.smartlead.scanner.test.app-runtime-release-9 C:\Users\shaur\.gradle\caches\8.10.2\transforms\62928b770036024b8f3e6544382ec317\transformed\runtime-release\res
+com.smartlead.scanner.test.app-lifecycle-runtime-ktx-release-10 C:\Users\shaur\.gradle\caches\8.10.2\transforms\6468022b0d6b9dcad6de6376a17665eb\transformed\lifecycle-runtime-ktx-release\res
+com.smartlead.scanner.test.app-ui-text-release-11 C:\Users\shaur\.gradle\caches\8.10.2\transforms\66d3cdc4b4a9c0ccdf319c4b97a23f50\transformed\ui-text-release\res
+com.smartlead.scanner.test.app-ui-release-12 C:\Users\shaur\.gradle\caches\8.10.2\transforms\6fc29ba5fb0c0d361cc1a3134afa2af6\transformed\ui-release\res
+com.smartlead.scanner.test.app-savedstate-ktx-1.2.1-13 C:\Users\shaur\.gradle\caches\8.10.2\transforms\7e0edf03d2b3017b92ca751377a6c6d0\transformed\savedstate-ktx-1.2.1\res
+com.smartlead.scanner.test.app-ui-unit-release-14 C:\Users\shaur\.gradle\caches\8.10.2\transforms\83a15d532a5c64f71ae2cd4aa4b86253\transformed\ui-unit-release\res
+com.smartlead.scanner.test.app-lifecycle-viewmodel-ktx-2.8.4-15 C:\Users\shaur\.gradle\caches\8.10.2\transforms\8ad2c74a8c2aead3a08553b761b17e82\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.smartlead.scanner.test.app-profileinstaller-1.3.1-16 C:\Users\shaur\.gradle\caches\8.10.2\transforms\8fde4f7867ea8fc0dabab085f995bbb5\transformed\profileinstaller-1.3.1\res
+com.smartlead.scanner.test.app-savedstate-1.2.1-17 C:\Users\shaur\.gradle\caches\8.10.2\transforms\99f30c05f5d8b800c34442c838a812cd\transformed\savedstate-1.2.1\res
+com.smartlead.scanner.test.app-startup-runtime-1.1.1-18 C:\Users\shaur\.gradle\caches\8.10.2\transforms\a032159e65ff163803217b2ceb9965e8\transformed\startup-runtime-1.1.1\res
+com.smartlead.scanner.test.app-lifecycle-runtime-release-19 C:\Users\shaur\.gradle\caches\8.10.2\transforms\a93605118a74781ab11efe9ab9b15869\transformed\lifecycle-runtime-release\res
+com.smartlead.scanner.test.app-runtime-saveable-release-20 C:\Users\shaur\.gradle\caches\8.10.2\transforms\a9e41c1d0e1961a56a72d3717d73633a\transformed\runtime-saveable-release\res
+com.smartlead.scanner.test.app-activity-1.9.1-21 C:\Users\shaur\.gradle\caches\8.10.2\transforms\b6d18f24026cedfdee0f650374225120\transformed\activity-1.9.1\res
+com.smartlead.scanner.test.app-activity-ktx-1.9.1-22 C:\Users\shaur\.gradle\caches\8.10.2\transforms\bcfc7a68120694ab68cbf06e2bbd9ac0\transformed\activity-ktx-1.9.1\res
+com.smartlead.scanner.test.app-graphics-path-1.0.0-beta02-23 C:\Users\shaur\.gradle\caches\8.10.2\transforms\bfb3e2842dd323e4b634a1b7445a1256\transformed\graphics-path-1.0.0-beta02\res
+com.smartlead.scanner.test.app-lifecycle-viewmodel-savedstate-2.8.4-24 C:\Users\shaur\.gradle\caches\8.10.2\transforms\c62f6c93de3ebc4f2d1b73130508983b\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.smartlead.scanner.test.app-annotation-experimental-1.4.0-25 C:\Users\shaur\.gradle\caches\8.10.2\transforms\c66714c73669230bf2a50e0fe000e6cf\transformed\annotation-experimental-1.4.0\res
+com.smartlead.scanner.test.app-core-1.13.1-26 C:\Users\shaur\.gradle\caches\8.10.2\transforms\cd5eb756980db7e487805951402fab62\transformed\core-1.13.1\res
+com.smartlead.scanner.test.app-emoji2-1.3.0-27 C:\Users\shaur\.gradle\caches\8.10.2\transforms\cd6778765239fcec48d195aa4fe7cc6d\transformed\emoji2-1.3.0\res
+com.smartlead.scanner.test.app-lifecycle-viewmodel-release-28 C:\Users\shaur\.gradle\caches\8.10.2\transforms\d569f9fb091c6d32d0edf652d8693c76\transformed\lifecycle-viewmodel-release\res
+com.smartlead.scanner.test.app-core-runtime-2.2.0-29 C:\Users\shaur\.gradle\caches\8.10.2\transforms\de34b628640dcc6f2294156ce950ac52\transformed\core-runtime-2.2.0\res
+com.smartlead.scanner.test.app-lifecycle-process-2.8.4-30 C:\Users\shaur\.gradle\caches\8.10.2\transforms\e96498ef21e49d465abaf25b8f7f7849\transformed\lifecycle-process-2.8.4\res
+com.smartlead.scanner.test.app-ui-util-release-31 C:\Users\shaur\.gradle\caches\8.10.2\transforms\fb15a9d6f57e1dd49e7921f06f0fb91a\transformed\ui-util-release\res
+com.smartlead.scanner.test.app-androidTest-32 C:\Users\shaur\OneDrive\Desktop\scanner app\app\build\generated\res\resValues\androidTest\debug
+com.smartlead.scanner.test.app-mergeDebugAndroidTestResources-33 C:\Users\shaur\OneDrive\Desktop\scanner app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.smartlead.scanner.test.app-mergeDebugAndroidTestResources-34 C:\Users\shaur\OneDrive\Desktop\scanner app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.smartlead.scanner.test.app-debugAndroidTest-35 C:\Users\shaur\OneDrive\Desktop\scanner app\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

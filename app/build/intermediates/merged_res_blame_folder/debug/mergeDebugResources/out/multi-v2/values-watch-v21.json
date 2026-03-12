@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.smartlead.scanner.app-mergeDebugResources-69:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\shaur\\.gradle\\caches\\8.10.2\\transforms\\6e65f7d7882209a7bf3bd9b5b4db8d74\\transformed\\appcompat-1.6.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

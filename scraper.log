@@ -1,0 +1,50 @@
+2026-03-12 19:00:58,666 - INFO - Scraper starting, logging to C:\Users\shaur\OneDrive\Desktop\scanner app\scraper.log
+2026-03-12 19:01:01,693 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5762
+ * Running on http://10.127.251.26:5762
+2026-03-12 19:01:01,696 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 19:10:53,329 - INFO - Scraper starting, logging to C:\Users\shaur\OneDrive\Desktop\scanner app\scraper.log
+2026-03-12 19:10:53,523 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5762
+ * Running on http://10.127.251.26:5762
+2026-03-12 19:10:53,524 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 19:13:11,641 - INFO - Received scrape request for: Aditi Kadam @ GNG Electronics Limited
+2026-03-12 19:13:11,641 - INFO - Lock acquired, starting scrape...
+2026-03-12 19:13:23,939 - INFO - patching driver executable C:\Users\shaur\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-12 19:13:28,384 - ERROR - Scrape failed: {'error': 'Chrome failed: Message: session not created: cannot connect to chrome at 127.0.0.1:61518\nfrom session not created: This version of ChromeDriver only supports Chrome version 146\nCurrent browser version is 145.0.7632.160\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x11eee63+10893]\n\tundetected_chromedriver!GetHandleVerifier [0x11eef94+109c4]\n\tundetected_chromedriver!(No symbol) [0xfd2130]\n\tundetected_chromedriver!(No symbol) [0x100d642]\n\tundetected_chromedriver!(No symbol) [0x100c66c]\n\tundetected_chromedriver!(No symbol) [0x1002785]\n\tundetected_chromedriver!(No symbol) [0x10025a6]\n\tundetected_chromedriver!(No symbol) [0x1049caf]\n\tundetected_chromedriver!(No symbol) [0x10494c7]\n\tundetected_chromedriver!(No symbol) [0x103d896]\n\tundetected_chromedriver!(No symbol) [0x1010229]\n\tundetected_chromedriver!(No symbol) [0x1010fe4]\n\tundetected_chromedriver!GetHandleVerifier [0x1451fe9+273a19]\n\tundetected_chromedriver!GetHandleVerifier [0x144d5f3+26f023]\n\tundetected_chromedriver!GetHandleVerifier [0x146b31b+28cd4b]\n\tundetected_chromedriver!GetHandleVerifier [0x1207dd8+29808]\n\tundetected_chromedriver!GetHandleVerifier [0x120fb1d+3154d]\n\tundetected_chromedriver!GetHandleVerifier [0x11f7888+192b8]\n\tundetected_chromedriver!GetHandleVerifier [0x11f7a52+19482]\n\tundetected_chromedriver!GetHandleVerifier [0x11e116a+2b9a]\n\tKERNEL32!BaseThreadInitThunk [0x76f85d49+19]\n\tntdll!RtlInitializeExceptionChain [0x77d9d81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x77d9d7a1+231]\n. Is Chrome already open with this profile?'}
+2026-03-12 19:13:28,386 - INFO - 10.127.251.77 - - [12/Mar/2026 19:13:28] "[35m[1mPOST /scrape HTTP/1.1[0m" 500 -
+2026-03-12 19:13:31,803 - INFO - Received scrape request for: Aditi Kadam @ GNG Electronics Limited
+2026-03-12 19:13:31,804 - INFO - Lock acquired, starting scrape...
+2026-03-12 19:13:50,250 - INFO - patching driver executable C:\Users\shaur\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-12 19:13:54,461 - ERROR - Scrape failed: {'error': 'Chrome failed: Message: session not created: cannot connect to chrome at 127.0.0.1:61303\nfrom session not created: This version of ChromeDriver only supports Chrome version 146\nCurrent browser version is 145.0.7632.160\nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0x77ee63+10893]\n\tundetected_chromedriver!GetHandleVerifier [0x77ef94+109c4]\n\tundetected_chromedriver!(No symbol) [0x562130]\n\tundetected_chromedriver!(No symbol) [0x59d642]\n\tundetected_chromedriver!(No symbol) [0x59c66c]\n\tundetected_chromedriver!(No symbol) [0x592785]\n\tundetected_chromedriver!(No symbol) [0x5925a6]\n\tundetected_chromedriver!(No symbol) [0x5d9caf]\n\tundetected_chromedriver!(No symbol) [0x5d94c7]\n\tundetected_chromedriver!(No symbol) [0x5cd896]\n\tundetected_chromedriver!(No symbol) [0x5a0229]\n\tundetected_chromedriver!(No symbol) [0x5a0fe4]\n\tundetected_chromedriver!GetHandleVerifier [0x9e1fe9+273a19]\n\tundetected_chromedriver!GetHandleVerifier [0x9dd5f3+26f023]\n\tundetected_chromedriver!GetHandleVerifier [0x9fb31b+28cd4b]\n\tundetected_chromedriver!GetHandleVerifier [0x797dd8+29808]\n\tundetected_chromedriver!GetHandleVerifier [0x79fb1d+3154d]\n\tundetected_chromedriver!GetHandleVerifier [0x787888+192b8]\n\tundetected_chromedriver!GetHandleVerifier [0x787a52+19482]\n\tundetected_chromedriver!GetHandleVerifier [0x77116a+2b9a]\n\tKERNEL32!BaseThreadInitThunk [0x76f85d49+19]\n\tntdll!RtlInitializeExceptionChain [0x77d9d81b+6b]\n\tntdll!RtlGetAppContainerNamedObjectPath [0x77d9d7a1+231]\n. Is Chrome already open with this profile?'}
+2026-03-12 19:13:54,464 - INFO - 10.127.251.77 - - [12/Mar/2026 19:13:54] "[35m[1mPOST /scrape HTTP/1.1[0m" 500 -
+2026-03-12 19:19:25,299 - INFO - Scraper starting, logging to C:\Users\shaur\OneDrive\Desktop\scanner app\scraper.log
+2026-03-12 19:19:25,526 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5762
+ * Running on http://10.127.251.26:5762
+2026-03-12 19:19:25,526 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 19:19:46,144 - INFO - Received scrape request for: Aditi Kadam @ GNG Electronics Limited
+2026-03-12 19:19:46,145 - INFO - Lock acquired, starting scrape...
+2026-03-12 19:19:59,235 - INFO - Scraper starting, logging to C:\Users\shaur\OneDrive\Desktop\scanner app\scraper.log
+2026-03-12 19:19:59,403 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5762
+ * Running on http://10.127.251.26:5762
+2026-03-12 19:19:59,403 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 19:20:07,878 - INFO - patching driver executable C:\Users\shaur\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-12 19:22:39,083 - INFO - AFC is enabled with max remote calls: 10.
+2026-03-12 19:22:43,015 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-12 19:22:43,471 - INFO - Scrape successful
+2026-03-12 19:22:43,471 - INFO - 10.127.251.77 - - [12/Mar/2026 19:22:43] "POST /scrape HTTP/1.1" 200 -
+2026-03-12 19:25:52,769 - INFO - Received scrape request for: Chetan Suthar @ 
+2026-03-12 19:25:52,769 - INFO - Lock acquired, starting scrape...
+2026-03-12 19:25:58,648 - INFO - Received scrape request for: Chetan Suthar @ 
+2026-03-12 19:26:07,511 - INFO - patching driver executable C:\Users\shaur\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-12 19:28:36,345 - INFO - AFC is enabled with max remote calls: 10.
+2026-03-12 19:28:41,881 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2026-03-12 19:28:42,303 - INFO - Scrape successful
+2026-03-12 19:28:42,303 - INFO - Lock acquired, starting scrape...
+2026-03-12 19:28:42,304 - INFO - 10.127.251.77 - - [12/Mar/2026 19:28:42] "POST /scrape HTTP/1.1" 200 -
