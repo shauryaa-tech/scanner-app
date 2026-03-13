@@ -32,7 +32,7 @@ app = Flask(__name__)
 scrape_lock = threading.Lock()
 
 # --- CONFIGURATION ---
-GEMINI_API_KEY = "AIzaSyBFmk4kHcW0TH--WYnlczj5HBB236wEsj8"
+GEMINI_API_KEY = ""
 # Standalone profile to avoid locks
 CHROME_PROFILE_PATH = os.path.join(os.getcwd(), "selenium_profile_main")
 
